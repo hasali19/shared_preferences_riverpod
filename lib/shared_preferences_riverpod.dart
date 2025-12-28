@@ -1,5 +1,6 @@
 library shared_preferences_flutter_riverpod;
 
+import 'package:riverpod/legacy.dart';
 import 'package:riverpod/riverpod.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
